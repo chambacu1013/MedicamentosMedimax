@@ -1,0 +1,11 @@
+C:/Users/Michaell Medina/Documents/flutterProyectos/mi_primer_proyecto/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/Michaell Medina/Documents/flutterProyectos/mi_primer_proyecto/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/Michaell Medina/Documents/flutterProyectos/mi_primer_proyecto/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Michaell Medina/Documents/flutterProyectos/mi_primer_proyecto/build/windows/runner/Debug/data/flutter_assets/assets/img/logos.jpeg
+C:/Users/Michaell Medina/Documents/flutterProyectos/mi_primer_proyecto/build/windows/runner/Debug/data/flutter_assets/assets/img/saludo.jpeg
+C:/Users/Michaell Medina/Documents/flutterProyectos/mi_primer_proyecto/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Michaell Medina/Documents/flutterProyectos/mi_primer_proyecto/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Michaell Medina/Documents/flutterProyectos/mi_primer_proyecto/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Michaell Medina/Documents/flutterProyectos/mi_primer_proyecto/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/Michaell Medina/Documents/flutterProyectos/mi_primer_proyecto/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/Michaell Medina/Documents/flutterProyectos/mi_primer_proyecto/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

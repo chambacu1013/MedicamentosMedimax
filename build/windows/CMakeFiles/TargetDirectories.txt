@@ -1,0 +1,10 @@
+C:/Users/Michaell Medina/Documents/flutterProyectos/mi_primer_proyecto/build/windows/CMakeFiles/INSTALL.dir
+C:/Users/Michaell Medina/Documents/flutterProyectos/mi_primer_proyecto/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/Michaell Medina/Documents/flutterProyectos/mi_primer_proyecto/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Michaell Medina/Documents/flutterProyectos/mi_primer_proyecto/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/Michaell Medina/Documents/flutterProyectos/mi_primer_proyecto/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/Michaell Medina/Documents/flutterProyectos/mi_primer_proyecto/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/Michaell Medina/Documents/flutterProyectos/mi_primer_proyecto/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/Michaell Medina/Documents/flutterProyectos/mi_primer_proyecto/build/windows/runner/CMakeFiles/mi_primer_proyecto.dir
+C:/Users/Michaell Medina/Documents/flutterProyectos/mi_primer_proyecto/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/Michaell Medina/Documents/flutterProyectos/mi_primer_proyecto/build/windows/runner/CMakeFiles/ALL_BUILD.dir
